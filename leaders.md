@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Abdul Samadh](mailto:abdul.samadh@owasp.org)
+* [Andrew Simon](mailto:andrew.simon@owasp.org)
+* [Amish Jayakumar](mailto:amish.jayakumar@owasp.org)
