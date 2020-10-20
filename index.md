@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Gudalur
-tags: example-tag
+tags: OWASP Gudalur Chapter, Nilgiris, India
 region: Asia
 
 ---
