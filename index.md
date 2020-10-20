@@ -15,7 +15,7 @@ region: Asia
 
 ## Welcome
 
-<img src="assets/images/Logo/OWASP_Gudalur_Logo.jpeg"/>
+<img src="assets/images/Logo/OWASP_Gudalur_Logo.png"/>
 
 Founded on September, 2020, OWASP Gudalur chapter was started with the mission of improving and supporting professionals, students and enthusiasts in cyber security and application security domains. We are a team of young and certified professionals with ample experience in cyber space. We aim to conduct regular webinars, seminars, meetups and conferences which are open meets, that allows anyone to take part in. The primary objective of this chapter is to promote and provide opportunites in cyber and applicaton security.
 
