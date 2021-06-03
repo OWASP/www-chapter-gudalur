@@ -4,6 +4,6 @@
 * [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters) requirements and criteria of an active OWASP Chapter.
 
 ### Social Links
-* [Meetup](https://www.meetup.com/gudalur-owasp-meetup-group/)
+
 
 
